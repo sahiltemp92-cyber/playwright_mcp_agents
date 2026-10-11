@@ -1,0 +1,47 @@
+- generic [ref=e1458]:
+  - banner [ref=e1459]:
+    - generic [ref=e1460]:
+      - generic [ref=e1461]: GREENKART
+      - link "🎯 I’ll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e1462] [cursor=pointer]:
+        - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+      - link "🎯 I’ll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e1463] [cursor=pointer]:
+        - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+  - generic [ref=e1465]:
+    - table [ref=e1466]:
+      - rowgroup [ref=e1467]:
+        - row [ref=e1468]:
+          - cell "#" [ref=e1469]
+          - cell "Product Name" [ref=e1470]
+          - cell "Quantiry" [ref=e1471]
+          - cell "Price" [ref=e1472]
+          - cell "Total" [ref=e1473]
+      - rowgroup [ref=e1474]:
+        - row [ref=e1475]:
+          - cell [ref=e1476]
+          - cell [ref=e1478]:
+            - paragraph [ref=e1479]: Tomato - 1 Kg
+          - cell [ref=e1480]:
+            - paragraph [ref=e1481]: "1"
+          - cell [ref=e1482]:
+            - paragraph [ref=e1483]: "16"
+          - cell [ref=e1484]:
+            - paragraph [ref=e1485]: "16"
+        - row [ref=e1486]:
+          - cell [ref=e1487]
+          - cell [ref=e1489]:
+            - paragraph [ref=e1490]: Brocolli - 1 Kg
+          - cell [ref=e1491]:
+            - paragraph [ref=e1492]: "1"
+          - cell [ref=e1493]:
+            - paragraph [ref=e1494]: "120"
+          - cell [ref=e1495]:
+            - paragraph [ref=e1496]: "120"
+    - generic [ref=e1497]:
+      - generic [ref=e1498]:
+        - textbox "Enter promo code" [ref=e1499]: rahulshettyacademy
+        - button "Apply" [active] [ref=e1508] [cursor=pointer]
+        - text: Code applied ..!
+      - text: "No. of Items : 2 Total Amount :"
+      - generic [ref=e1501]: "136"
+      - text: "Discount : 10%Total After Discount : 122.4"
+      - button "Place Order" [ref=e1502] [cursor=pointer]
